@@ -33,7 +33,7 @@ levels — everything below is on free tiers.
    - **Project URL**
    - **anon public** key
 
-### Optional but recommended: email confirmation
+## Optional but recommended: email confirmation
 
 By default Supabase requires a new user to click a confirmation link in
 their email before they can sign in. That's good for a real public app.
